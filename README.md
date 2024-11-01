@@ -3,3 +3,4 @@ Skycast: A Weather App  Skycast is a user-friendly weather application designed 
 <br>
 <b>Aurthor Alina Kayani</b>
 <p></p>
+clear
